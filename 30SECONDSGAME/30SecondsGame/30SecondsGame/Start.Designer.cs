@@ -76,6 +76,7 @@ namespace _30SecondsGame
             this.linkLabel2.TabStop = true;
             this.linkLabel2.Text = "RULES";
             this.linkLabel2.VisitedLinkColor = System.Drawing.Color.Transparent;
+            this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel2_LinkClicked);
             // 
             // Start
             // 

@@ -39,6 +39,7 @@ namespace _30SecondsGame
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1199, 700);
             this.Name = "Rules";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Rules";
             this.ResumeLayout(false);
 

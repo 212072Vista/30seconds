@@ -10,3 +10,15 @@ C:\Users\chris\Desktop\challenge 30 seconds\30SECONDSGAME\30SecondsGame\30Second
 C:\Users\chris\Desktop\challenge 30 seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.pdb
 C:\Users\chris\Desktop\challenge 30 seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q1.resources
 C:\Users\chris\Desktop\challenge 30 seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Rules.resources
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\30SecondsGame.exe.config
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\30SecondsGame.exe
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\30SecondsGame.pdb
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.csproj.AssemblyReference.cache
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q1.resources
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Rules.resources
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Start.resources
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Properties.Resources.resources
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.csproj.GenerateResource.cache
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.csproj.CoreCompileInputs.cache
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.exe
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.pdb

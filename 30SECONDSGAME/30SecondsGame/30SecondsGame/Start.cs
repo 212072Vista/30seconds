@@ -24,12 +24,21 @@ namespace _30SecondsGame
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            Form to = new Q1();
+            to.Show();
+            Hide();
         }
 
         private void label2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form to = new Rules();
+            to.Show();
+            Hide();
         }
     }
 }
