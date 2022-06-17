@@ -17,11 +17,6 @@ namespace _30SecondsGame
         {
             InitializeComponent();
         }
-        public void loadform(object form)
-        {
-            if (this.start.Controls.Count > 0)
-                this.Start.Controls.RemoveAt(0)
-        }
 
         private void label1_Click(object sender, EventArgs e)
         {
@@ -50,8 +45,10 @@ namespace _30SecondsGame
 
         private void Start_Load(object sender, EventArgs e)
         {
+        
 
-          
+             
+                
         }
     }
 }
