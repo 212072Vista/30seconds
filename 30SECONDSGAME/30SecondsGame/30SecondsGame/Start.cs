@@ -50,5 +50,10 @@ namespace _30SecondsGame
              
                 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
