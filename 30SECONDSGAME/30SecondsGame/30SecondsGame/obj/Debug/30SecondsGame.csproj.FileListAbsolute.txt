@@ -22,3 +22,5 @@ C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\
 C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.csproj.CoreCompileInputs.cache
 C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.exe
 C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.pdb
+C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q1p.resources
+C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.startRules.resources

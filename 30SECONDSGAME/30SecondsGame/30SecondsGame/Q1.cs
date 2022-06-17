@@ -12,6 +12,7 @@ namespace _30SecondsGame
 {
     public partial class Q1 : Form
     {
+        int flag=-1;
         public Q1()
         {
             InitializeComponent();

@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace _30SecondsGame
 {
-    public partial class startRules : UserControl
+    public partial class startrulesform : Form
     {
-        public startRules()
+        public startrulesform()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-    
         }
     }
 }

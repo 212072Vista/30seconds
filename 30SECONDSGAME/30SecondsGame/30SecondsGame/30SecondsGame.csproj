@@ -72,6 +72,12 @@
     <Compile Include="startRules.Designer.cs">
       <DependentUpon>startRules.cs</DependentUpon>
     </Compile>
+    <Compile Include="startrulesform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startrulesform.Designer.cs">
+      <DependentUpon>startrulesform.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Q1.resx">
       <DependentUpon>Q1.cs</DependentUpon>
     </EmbeddedResource>
@@ -92,6 +98,9 @@
     </Compile>
     <EmbeddedResource Include="startRules.resx">
       <DependentUpon>startRules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="startrulesform.resx">
+      <DependentUpon>startrulesform.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

@@ -12,9 +12,15 @@ namespace _30SecondsGame
 {
     public partial class Start : Form
     {
+        int flag = -1;
         public Start()
         {
             InitializeComponent();
+        }
+        public void loadform(object form)
+        {
+            if (this.start.Controls.Count > 0)
+                this.Start.Controls.RemoveAt(0)
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -24,9 +30,12 @@ namespace _30SecondsGame
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Form to = new Q1();
-            to.Show();
-            Hide();
+        flag *= -1;
+            if (flag == 1)
+                panel1.Hide();
+
+            else
+                panel1.Show();
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -36,9 +45,13 @@ namespace _30SecondsGame
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Form to = new Rules();
-            to.Show();
-            Hide();
+
+        }
+
+        private void Start_Load(object sender, EventArgs e)
+        {
+
+          
         }
     }
 }
