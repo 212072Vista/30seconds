@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Data.SQLite;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,6 +17,11 @@ namespace _30SecondsGame
         public Start()
         {
             InitializeComponent();
+
+            string cs = @"URI=file:C:/Users/bram/source/repos/Challenge12/Challenge12/challenge12database.db";
+
+            var con = new SQLiteConnection(cs);
+            con.Open();
         }
 
         private void label1_Click(object sender, EventArgs e)
