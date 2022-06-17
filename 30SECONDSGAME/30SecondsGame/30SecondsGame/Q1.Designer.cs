@@ -34,17 +34,15 @@ namespace _30SecondsGame
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.button1 = new System.Windows.Forms.Button();
-            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.button1);
             this.panel1.Location = new System.Drawing.Point(167, 129);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(825, 467);
             this.panel1.TabIndex = 0;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // label1
             // 
@@ -54,17 +52,6 @@ namespace _30SecondsGame
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "label1";
-            // 
-            // button1
-            // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(292, 177);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(244, 116);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "START QUIZ";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Q1
             // 
@@ -77,7 +64,7 @@ namespace _30SecondsGame
             this.Name = "Q1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Q1";
-            this.panel1.ResumeLayout(false);
+            this.Load += new System.EventHandler(this.Q1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -88,6 +75,5 @@ namespace _30SecondsGame
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.Button button1;
     }
 }

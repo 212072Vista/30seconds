@@ -66,6 +66,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="startRules.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="startRules.Designer.cs">
+      <DependentUpon>startRules.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Q1.resx">
       <DependentUpon>Q1.cs</DependentUpon>
     </EmbeddedResource>
@@ -84,6 +90,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="startRules.resx">
+      <DependentUpon>startRules.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

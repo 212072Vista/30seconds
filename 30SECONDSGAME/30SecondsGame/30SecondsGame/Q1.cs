@@ -26,5 +26,15 @@ namespace _30SecondsGame
         {
 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+            
+        }
+
+        private void Q1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
