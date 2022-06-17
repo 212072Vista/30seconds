@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\30SecondsGame",
+    "\\30SecondsGame\\30SecondsGame"
   ],
+  "SelectedNode": "\\30SecondsGame\\30SecondsGame\\Start.cs",
   "PreviewInSolutionExplorer": false
 }

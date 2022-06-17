@@ -52,6 +52,12 @@
     <Compile Include="Q1.Designer.cs">
       <DependentUpon>Q1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Q2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q2.Designer.cs">
+      <DependentUpon>Q2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Rules.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +74,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Q1.resx">
       <DependentUpon>Q1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q2.resx">
+      <DependentUpon>Q2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Rules.resx">
       <DependentUpon>Rules.cs</DependentUpon>
