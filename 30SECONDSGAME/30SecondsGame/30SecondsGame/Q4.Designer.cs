@@ -29,12 +29,14 @@ namespace _30SecondsGame
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Q4));
             this.SuspendLayout();
             // 
             // Q4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1199, 700);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Q4";
