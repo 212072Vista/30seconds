@@ -71,6 +71,30 @@
     <Compile Include="Q1.Designer.cs">
       <DependentUpon>Q1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Q2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q2.Designer.cs">
+      <DependentUpon>Q2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Q3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q3.Designer.cs">
+      <DependentUpon>Q3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Q4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q4.Designer.cs">
+      <DependentUpon>Q4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Q5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Q5.Designer.cs">
+      <DependentUpon>Q5.cs</DependentUpon>
+    </Compile>
     <Compile Include="Rules.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +109,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="startpanelNEW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startpanelNEW.Designer.cs">
+      <DependentUpon>startpanelNEW.cs</DependentUpon>
+    </Compile>
     <Compile Include="startRules.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -99,6 +129,18 @@
     </Compile>
     <EmbeddedResource Include="Q1.resx">
       <DependentUpon>Q1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q2.resx">
+      <DependentUpon>Q2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q3.resx">
+      <DependentUpon>Q3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q4.resx">
+      <DependentUpon>Q4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Q5.resx">
+      <DependentUpon>Q5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Rules.resx">
       <DependentUpon>Rules.cs</DependentUpon>
@@ -115,6 +157,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="startpanelNEW.resx">
+      <DependentUpon>startpanelNEW.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="startRules.resx">
       <DependentUpon>startRules.cs</DependentUpon>
     </EmbeddedResource>

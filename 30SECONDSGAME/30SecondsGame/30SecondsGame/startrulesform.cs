@@ -11,7 +11,9 @@ using System.Windows.Forms;
 namespace _30SecondsGame
 {
     public partial class startrulesform : Form
+        
     {
+        int flag = -1;
         public startrulesform()
         {
             InitializeComponent();
