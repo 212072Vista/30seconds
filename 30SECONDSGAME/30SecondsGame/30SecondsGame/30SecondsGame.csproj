@@ -115,12 +115,6 @@
     <Compile Include="startpanelNEW.Designer.cs">
       <DependentUpon>startpanelNEW.cs</DependentUpon>
     </Compile>
-    <Compile Include="startRules.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="startRules.Designer.cs">
-      <DependentUpon>startRules.cs</DependentUpon>
-    </Compile>
     <Compile Include="startrulesform.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -159,9 +153,6 @@
     </Compile>
     <EmbeddedResource Include="startpanelNEW.resx">
       <DependentUpon>startpanelNEW.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="startRules.resx">
-      <DependentUpon>startRules.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="startrulesform.resx">
       <DependentUpon>startrulesform.cs</DependentUpon>

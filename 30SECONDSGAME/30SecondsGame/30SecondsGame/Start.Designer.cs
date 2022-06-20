@@ -39,7 +39,7 @@ namespace _30SecondsGame
             // 
             this.panel1.Location = new System.Drawing.Point(-2, -1);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1202, 700);
+            this.panel1.Size = new System.Drawing.Size(1203, 700);
             this.panel1.TabIndex = 5;
             this.panel1.Visible = false;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
