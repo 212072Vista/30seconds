@@ -20,17 +20,9 @@ namespace _30SecondsGame
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            flag *= -1;
-            if (flag == 1)
-                panel1.Hide();
-            else
-                panel1.Show();
+   
 
-            panel1.Controls.Clear();
-            startrulesform srf = new startrulesform();
-            srf.TopLevel = false;
-            panel1.Controls.Add(srf);
-            srf.Show();
+
         }
     }
 }
