@@ -22,6 +22,17 @@ namespace _30SecondsGame
 
             var con = new SQLiteConnection(cs);
             con.Open();
+
+            using (var cmd = new SQLiteCommand("SELECT * FROM vraag", con))
+            {
+                var poep = cmd.ExecuteReader();
+
+                while (poep.Read())
+                {
+                    var kakka = poep.GetString(1);
+                }
+
+            }
         }
 
         private void label1_Click(object sender, EventArgs e)
