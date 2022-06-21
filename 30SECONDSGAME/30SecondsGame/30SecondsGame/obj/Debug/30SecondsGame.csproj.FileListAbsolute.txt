@@ -64,3 +64,8 @@ C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\
 C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q5.resources
 C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.startpanelNEW.resources
 >>>>>>> 99f8ee132b13f64edb9a4d713255ccc2997121ad
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q2.resources
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q3.resources
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q4.resources
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q5.resources
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.startpanelNEW.resources
