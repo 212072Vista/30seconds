@@ -10,11 +10,9 @@ using System.Windows.Forms;
 
 namespace _30SecondsGame
 {
-    public partial class startrulesform : Form
-        
+    public partial class Q5 : Form
     {
-        int flag = -1;
-        public startrulesform()
+        public Q5()
         {
             InitializeComponent();
         }

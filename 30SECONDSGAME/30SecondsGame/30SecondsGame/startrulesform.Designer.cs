@@ -65,6 +65,7 @@ namespace _30SecondsGame
             this.ClientSize = new System.Drawing.Size(1185, 665);
             this.Controls.Add(this.Startbutton);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "startrulesform";
             this.Text = "startrulesform";
             this.ResumeLayout(false);
