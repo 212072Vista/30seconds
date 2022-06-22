@@ -18,10 +18,10 @@ namespace _30SecondsGame
         {
             InitializeComponent();
 
-            string cs = @"URI=file:C:/Users/bram/source/repos/Challenge12/Challenge12/challenge12database.db";
+            ///string cs = @"URI=file:C:/Users/bram/source/repos/Challenge12/Challenge12/challenge12database.db";
 
-            var con = new SQLiteConnection(cs);
-            con.Open();
+           /// var con = new SQLiteConnection(cs);
+           /// con.Open();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -37,6 +37,8 @@ namespace _30SecondsGame
 
             else
                 panel1.Show();
+
+
         }
 
         private void label2_Click(object sender, EventArgs e)
