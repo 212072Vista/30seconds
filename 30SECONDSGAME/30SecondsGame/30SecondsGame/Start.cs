@@ -20,8 +20,24 @@ namespace _30SecondsGame
 
             ///string cs = @"URI=file:C:/Users/bram/source/repos/Challenge12/Challenge12/challenge12database.db";
 
+
+
+
            /// var con = new SQLiteConnection(cs);
            /// con.Open();
+
+           /// using (var cmd = new SQLiteCommand("SELECT * FROM vraag", con))
+            {
+               /// var vraag = cmd.ExecuteReader();
+
+               /// while (vraag.Read())
+                {
+                   /// var antwoord = vraag.GetString(1);
+                }
+               
+            }
+
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -31,6 +47,7 @@ namespace _30SecondsGame
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
+
         flag *= -1;
             if (flag == 1)
                 panel1.Hide();
@@ -38,6 +55,15 @@ namespace _30SecondsGame
             else
                 panel1.Show();
 
+
+
+            panel1.Controls.Clear();
+            startrulesform srf = new startrulesform();
+            srf.TopLevel = false;
+            panel1.Controls.Add(srf);
+            srf.Show();
+            
+          
 
         }
 
@@ -62,6 +88,21 @@ namespace _30SecondsGame
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            flag *= -1;
+            if (flag == 1)
+                panel1.Hide();
+            else
+                panel1.Show();
+
+            panel1.Controls.Clear();
+            startpanelNEW spn = new startpanelNEW();
+            spn.TopLevel = false;
+            panel1.Controls.Add(spn);
+            spn.Show();
         }
     }
 }

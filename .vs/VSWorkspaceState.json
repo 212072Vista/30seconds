@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\30SECONDSGAME",
-    "\\30SECONDSGAME\\30SecondsGame",
-    "\\30SECONDSGAME\\30SecondsGame\\30SecondsGame"
+    ""
   ],
-  "SelectedNode": "\\30SECONDSGAME\\30SecondsGame\\30SecondsGame\\Start.cs",
+  "SelectedNode": "\\30SecondsGame.sln",
   "PreviewInSolutionExplorer": false
 }

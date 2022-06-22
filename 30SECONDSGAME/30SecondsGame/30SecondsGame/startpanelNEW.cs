@@ -10,13 +10,19 @@ using System.Windows.Forms;
 
 namespace _30SecondsGame
 {
-    public partial class startrulesform : Form
-        
+    public partial class startpanelNEW : Form
     {
         int flag = -1;
-        public startrulesform()
+        public startpanelNEW()
         {
             InitializeComponent();
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+   
+
+
         }
     }
 }

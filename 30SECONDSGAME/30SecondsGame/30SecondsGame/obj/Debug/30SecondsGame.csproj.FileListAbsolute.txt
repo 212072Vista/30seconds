@@ -22,7 +22,6 @@ C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\
 C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.csproj.CoreCompileInputs.cache
 C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.exe
 C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.pdb
-C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.startRules.resources
 C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.startrulesform.resources
 C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\30SecondsGame.exe.config
 C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\30SecondsGame.exe
@@ -39,6 +38,7 @@ C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame
 C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.csproj.CoreCompileInputs.cache
 C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.exe
 C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.pdb
+<<<<<<< HEAD
 C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\EntityFramework.dll
 C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\System.Data.SQLite.dll
@@ -48,3 +48,25 @@ C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\
 C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\System.Data.SQLite.xml
 C:\Users\chris\source\repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.csproj.CopyComplete
+=======
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\EntityFramework.dll
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\System.Data.SQLite.dll
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\EntityFramework.xml
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\bin\Debug\System.Data.SQLite.xml
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\30SecondsGame.csproj.CopyComplete
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q2.resources
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q3.resources
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q4.resources
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q5.resources
+C:\Users\chris\Source\Repos\30seconds\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.startpanelNEW.resources
+>>>>>>> 99f8ee132b13f64edb9a4d713255ccc2997121ad
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q2.resources
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q3.resources
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q4.resources
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.Q5.resources
+C:\Users\bram\source\repos\Challenge12\30SECONDSGAME\30SecondsGame\30SecondsGame\obj\Debug\_30SecondsGame.startpanelNEW.resources
+>>>>>>> 0deed32769443aa8c8e97206699afb9327166a05
